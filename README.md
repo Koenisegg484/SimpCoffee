@@ -1,7 +1,7 @@
-# Cafe Menu App
+# SimpCoffee Menu App~
 
 ## Overview
-Welcome to the **Cafe Menu App**! This application is designed for coffee enthusiasts and cafe lovers. Our app specializes in presenting a beautifully designed digital menu for a cafe that excels in serving the finest coffee. You can browse through our menu, choose your favorite coffee, and place an order for your perfect brew effortlessly.
+Welcome to the **SimpCoffee : Cafe Menu App**! This application is designed for coffee enthusiasts and cafe lovers. Our app specializes in presenting a beautifully designed digital menu for a cafe that excels in serving the finest coffee. You can browse through our menu, choose your favorite coffee, and place an order for your perfect brew effortlessly.
 
 ## Features
 - **Coffee Menu**: Browse an extensive selection of coffees, from espressos to lattes.
@@ -10,9 +10,9 @@ Welcome to the **Cafe Menu App**! This application is designed for coffee enthus
 - **User-Friendly Interface**: Navigate the menu with ease and enjoy a seamless ordering experience.
 
 ## Technologies Used
-- **Frontend**: Flutter (Dart)
-- **Backend**: Firebase for order management and database.
-- **Design**: Modern UI/UX principles to ensure a visually appealing and intuitive app.
+- **Frontend**: XML, Android Studio
+- **Backend**: Kotlin, Cloudinary for file storage, Firebase for order management and database.
+- **Design**: MVVM, Modern UI/UX principles to ensure a visually appealing and intuitive app.
 
 ## How to Use
 1. **Browse**: Open the app to explore the coffee menu.
