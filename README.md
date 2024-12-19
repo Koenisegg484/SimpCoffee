@@ -24,7 +24,7 @@ Welcome to the **SimpCoffee : Cafe Menu App**! This application is designed for 
 Below are a few screenshots showcasing the app:
 
 1. **Home Screen**: Browse the menu and discover our coffee collection.
-   ![Screenshot 1](screenshots/Screenshot_20241219_155553.png)
+   ![Screenshot 1](screenshots/Screenshot_20241219_155419.png)
 
 2. **Coffee Details**: Customize your coffee and view detailed descriptions.
    ![Screenshot 2](screenshots/Screenshot_20241219_155504.png)
@@ -33,7 +33,7 @@ Below are a few screenshots showcasing the app:
    ![Screenshot 3](screenshots/Screenshot_20241219_155451.png)
 
 4. **Confirmation Screen**: Get notified once your order is placed successfully.
-   ![Screenshot 4](screenshots/Screenshot_20241219_155419.png)
+   ![Screenshot 4](screenshots/Screenshot_20241219_155553.png)
 
 ## Future Enhancements
 - Integration with payment gateways for online payments.
