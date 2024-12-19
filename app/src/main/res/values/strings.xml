@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpCoffee</string>
+    <string name="make_your_custom_brew">Make Your Custom Brew</string>
+    <string name="make_your_own_custom_brew_or_go_with_the_originals">Make your own custom brew or go with the originals</string>
+    <string name="let_s_brew">Let\'s Brew</string>
+    <string name="find_your_brew">Find Your Brew :</string>
+</resources>
